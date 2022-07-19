@@ -1,1 +1,1 @@
-# Google-Foobar-Chess-Knight-s-Move-Problem
+# Google Foobar: Chess Knight's Move Problem
